@@ -9,7 +9,7 @@
 Kurs adı : Sıfırdan Flutter ile Android ve Ios Apps Development<br/>
 Eğitmen : Emre Altunbilek (https://emrealtunbilek.com/)<br/>
 
-### HENÜZ TAM OLARAK NOTLARIM DÜZENLİ DEĞİL. Düzenlenme aşamasında ! 
+### HENÜZ NOTLARIM TAM OLARAK DÜZENLİ DEĞİL. Düzenlenme aşamasında ! 
 
     //return MyCenterApp();                                   //Temel Widget kullanımları. 
     //return box_decoration_lesson();                         //Temel Widget kullanımları.
