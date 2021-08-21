@@ -5,7 +5,7 @@
 </p>
 
 
-### Flutter öğrenirken öğrendiğim bilgileri test ettiğim ve aldığım notları paylaşıyorum. <br/>
+### Flutter öğrenirken edindiğim bilgileri test ettiğim ve aldığım notları paylaşıyorum. <br/>
 Kurs adı : Sıfırdan Flutter ile Android ve Ios Apps Development<br/>
 Eğitmen : Emre Altunbilek (https://emrealtunbilek.com/)<br/>
 
