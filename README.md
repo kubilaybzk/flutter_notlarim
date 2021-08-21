@@ -1,10 +1,15 @@
 # flutter_notlarim
 
-Flutter öğrenirken öğrendiğim bilgileri test ettiğim ve aldığım notları paylaşıyorum.
-Kurs adı : Sıfırdan Flutter ile Android ve Ios Apps Development
-Eğitmen : Emre Altunbilek (https://emrealtunbilek.com/)
+<p align="center">
+  <img  src="https://camo.githubusercontent.com/50d7a65ffe5406b0bad412a292c922a166309ee78ad583c5c22883b523929bba/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3930302f312a414478613844417532705436364e7633726f527376412e676966">
+</p>
 
-## HENÜZ TAM OLARAK NOTLARIM DÜZENLİ DEĞİL. Düzenlenme aşamasında ! 
+
+### Flutter öğrenirken öğrendiğim bilgileri test ettiğim ve aldığım notları paylaşıyorum. <br/>
+Kurs adı : Sıfırdan Flutter ile Android ve Ios Apps Development<br/>
+Eğitmen : Emre Altunbilek (https://emrealtunbilek.com/)<br/>
+
+### HENÜZ TAM OLARAK NOTLARIM DÜZENLİ DEĞİL. Düzenlenme aşamasında ! 
 
     //return MyCenterApp();                                   //Temel Widget kullanımları. 
     //return box_decoration_lesson();                         //Temel Widget kullanımları.
