@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_notlarim/input_widgets/TextFormField_lesson1.dart';
+import 'package:flutter_notlarim/input_widgets/TextFormField_lesson2.dart';
+import 'package:flutter_notlarim/input_widgets/TextFormField_lesson3.dart';
 import 'package:flutter_notlarim/navigation/general_lesson_notes/general_main.dart';
 import 'package:flutter_notlarim/navigation/lesson6/lesson6_routes.dart';
 import 'package:flutter_notlarim/navigation/lesson8/lesson8_routes.dart';
@@ -6,6 +9,8 @@ import 'genel_tasarimlar/center.dart';
 import 'genel_tasarimlar/box_decoration_lessons.dart';
 import 'genel_tasarimlar/gridwiew_kullanimi.dart';
 import 'genel_tasarimlar/listview_kullanma.dart';
+import 'input_widgets/TextField_lesson1.dart';
+import 'input_widgets/TextField_lesson2.dart';
 import 'navigation/lesson7/lesson7_routes.dart';
 import 'navigation/losson1/first_lesson_main.dart';
 /*
@@ -67,6 +72,12 @@ class MyApp extends StatelessWidget {
     //return lesson6_routes(); //ModalRoute ile Yeni Sayfalara Veri Göndermek
     //return general_main(); //General Navigation kodları . (Emre Altunbilek'in dersleri)
     //return lesson7_routes(); // Kurucular ile Yeni Sayfalara Veri Göndermek
-    return lesson8_routes(); // PopUntil ve PushNamedRemoveUntil Kullanımları
+    //return lesson8_routes(); // PopUntil ve PushNamedRemoveUntil Kullanımları
+    /*----------------------------------------------------------------------------------------------------------*/
+    //return textfield_lesson_v1(); //Genel olarak TextField tasarımları
+    //return TextField_lesson_2(); //Controller ve FocusNode Kullanımı ve Statefull Widget Özellikleri
+    //return TextFormField_lesson_v1(); // TextFormField Kullanımı ve Verilerin Validator ile Kontrolü
+    //return TextFormField_lesson_v2(); //Formun Kaydedilmesi, Sıfırlanması ve GlobalKey Kullanımı
+    return TextFormField_lesson3(); //GlobalKey Nedir? Key Kullanımı Global Key ile Statelere Erişim
   }
 }
